@@ -22,6 +22,12 @@ Gran Turismo PSP has the cars and the driving. **Spec II adds the career around 
 
 Tahiti Dirt is also drivable in PPSSPP, but has not yet passed the same hardware check. Complex String and Smokey Mountain still have visible texture defects. The tracks are a recovery in progress, and you can actually race them.
 
+<table>
+<tr><td width="50%"><img src="screenshots/14-hong-kong-race.png" alt="Racing through Hong Kong in Lost Circuits Cup" width="480"><br><sub>Hong Kong · Lost Circuits Cup</sub></td><td width="50%"><img src="screenshots/16-rome-circuit-race.png" alt="Racing past the Colosseum on Rome Circuit" width="480"><br><sub>Rome Circuit · Lost Circuits Cup</sub></td></tr>
+</table>
+
+<p align="center"><img src="screenshots/15-hong-kong-replay.png" alt="Hong Kong course during a race replay" width="480"><br><sub>Hong Kong, seen in an in-game race replay</sub></p>
+
 ## A career built around the PSP
 
 <table>
@@ -48,18 +54,24 @@ Buy a part, fit it, remove it, and refit it later without buying it again. The c
 These are not just numbers painted into a menu: the car is prepared with the fitted hardware for the race, and acceleration and handling changes have been measured in-game. Purchases persist across saves. The current journal supports up to **192 tuned-car configurations**.
 
 <table>
-<tr><td width="50%"><img src="screenshots/07-tuning-shop.png" alt="Engine parts and prices in the tuning shop" width="480"><br><sub>Buy and fit engine parts</sub></td><td width="50%"><img src="screenshots/08-suspension.png" alt="Suspension settings for the selected car" width="480"><br><sub>Adjust a fitted suspension kit</sub></td></tr>
+<tr><td width="50%"><img src="screenshots/18-tuning-na.png" alt="Natural aspiration upgrades and prices in the tuning shop" width="480"><br><sub>Buy and fit engine parts</sub></td><td width="50%"><img src="screenshots/08-suspension.png" alt="Suspension settings for the selected car" width="480"><br><sub>Adjust a fitted suspension kit</sub></td></tr>
 </table>
 
 ## See the career
 
-These are direct **480 × 272 PSP framebuffer captures** from the exact beta ISO in PPSSPP, without UI mockups or upscale.
+All gameplay images are shown at **480 × 272, the PSP's native dimensions**, from the exact beta ISO in PPSSPP. The selected L3 captures were reduced from Retina-sized 2× screenshots without changing their content.
 
 <table>
-<tr><td><img src="screenshots/01-career-halls.png" alt="Career hall selection" width="480"><br><sub>Choose a hall</sub></td><td><img src="screenshots/03-extreme-events.png" alt="Extreme Events" width="480"><br><sub>Work toward the top series</sub></td></tr>
-<tr><td><img src="screenshots/02-beginner-events.png" alt="Beginner Events" width="480"><br><sub>Start with the Beginner events</sub></td><td><img src="screenshots/04-special-conditions.png" alt="Special Conditions rally events" width="480"><br><sub>Take on two-car rally duels</sub></td></tr>
-<tr><td><img src="screenshots/05-sunday-cup.png" alt="Sunday Cup event card" width="480"><br><sub>Each event shows its races, rules and rewards</sub></td><td><img src="screenshots/06-hot-rod-competition.png" alt="Hot Rod Competition event card" width="480"><br><sub>Licences and car eligibility shape the route</sub></td></tr>
-<tr><td><img src="screenshots/09-starting-grid.png" alt="Four-car starting grid" width="480"><br><sub>Meet the field before the start</sub></td><td><img src="screenshots/10-race.png" alt="Career race in progress" width="480"><br><sub>Race for credits, trophies and cars</sub></td></tr>
+<tr><td><img src="screenshots/11-career-entry.png" alt="GT Career entry on the PSP main menu" width="480"><br><sub>Enter GT Career</sub></td><td><img src="screenshots/12-career-halls-selected.png" alt="Career hall selection" width="480"><br><sub>Choose a hall</sub></td></tr>
+<tr><td><img src="screenshots/13-extreme-championship.png" alt="Gran Turismo World Championship in Extreme Events" width="480"><br><sub>Work toward the top series</sub></td><td><img src="screenshots/17-mr-challenge.png" alt="MR Challenge event card showing eligibility and prize car" width="480"><br><sub>Eligibility, prize cars, and event rounds</sub></td></tr>
+</table>
+
+## Original art on the PSP menu
+
+The beta includes our own Spec II cover, plus a matching PSP menu icon and background. The full artwork is at the top of this page; these are the actual assets packed into the game.
+
+<table>
+<tr><td align="center" width="33%"><img src="art/icon.png" alt="Spec II PSP menu icon" width="144"><br><sub>PSP menu icon</sub></td><td align="center"><img src="art/psp-background.png" alt="Matte grey BMW Z4 Spec II PSP menu background" width="480"><br><sub>PSP menu background</sub></td></tr>
 </table>
 
 ## Get the public beta
