@@ -53,8 +53,6 @@ Hong Kong, Rome Circuit, Complex String and Smokey Mountain once crashed the PSP
 
 ## See the career
 
-Screenshots from the beta ISO in PPSSPP, shown at the PSP's 480 × 272 resolution.
-
 <table>
 <tr><td><img src="screenshots/11-career-entry.png" alt="GT Career entry on the PSP main menu" width="480"><br><sub>GT Career</sub></td><td><img src="screenshots/12-career-halls-selected.png" alt="Career hall selection" width="480"><br><sub>Event halls</sub></td></tr>
 <tr><td><img src="screenshots/13-extreme-championship.png" alt="Gran Turismo World Championship in Extreme Events" width="480"><br><sub>World Championship</sub></td><td><img src="screenshots/17-mr-challenge.png" alt="MR Challenge event card showing eligibility and prize car" width="480"><br><sub>MR Challenge</sub></td></tr>
@@ -62,7 +60,7 @@ Screenshots from the beta ISO in PPSSPP, shown at the PSP's 480 × 272 resolutio
 
 ## Get the public beta
 
-This release is a patch for your own **Gran Turismo PSP USA UCUS98632 v2.00** ISO. It does not include the game. Extract the ZIP and use its installer to build the finished ISO, then copy it to your PSP or open it in PPSSPP. The ZIP is not a standalone `.xdelta` file for Delta Patcher.
+This release is a patch for your own **Gran Turismo PSP USA UCUS98632 v2.00** ISO. It does not include the game. Download the `.xdelta` patch and apply it with the free [Delta Patcher](https://deltapatcher.net/) for Windows or macOS. Then copy the finished ISO to your PSP or open it in PPSSPP.
 
 **[Download v0.27.2-beta.1](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1)** · [Detailed installation and save instructions](INSTALL.md) · [Release notes](RELEASE-NOTES-v0.27.2-beta.1.md) · [Credits and licences](NOTICE.md)
 

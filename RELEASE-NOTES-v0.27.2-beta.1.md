@@ -23,10 +23,9 @@ The v0.27.2 game volume has been played on PSP Go. Beta.1 keeps that volume byte
 
 ## Download and install
 
-Download `GT-Career-SpecII-v0.27.2-beta.1.zip` from the [release page](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1). It contains the patch installer, instructions, source snapshot, licences and ten unscaled 480×272 gameplay screenshots. **It contains no game ISO or save file.** See the [installation guide](https://github.com/Memetrix/gtpsp-career-spec-ii/blob/main/INSTALL.md) for the required original ISO, dependencies and save instructions.
+For the simplest installation, download `GT-Career-SpecII-v0.27.2-beta.1.xdelta` from the [release page](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1) and apply it to your original USA ISO with the free [Delta Patcher](https://deltapatcher.net/) for Windows or macOS. The smaller ZIP remains available as a command-line alternative. **Neither download contains a game ISO or save file.** See the [installation guide](https://github.com/Memetrix/gtpsp-career-spec-ii/blob/main/INSTALL.md) for the required original ISO and save instructions.
 
 - Original ISO SHA-256: `78d1b6855a268bd6480a6572977c3f4df4c438af11c751baeca14390819de435`
 - Finished ISO SHA-256: `1219e55d1fc0352ade90b2853c09de0441990a46407032acdc76c2adcabd31e6`
+- Delta Patcher `.xdelta` SHA-256: `6b03d3ef892adebaf3f600df9da935dcb916d96fb179be720fb31081af65d62f`
 - Release ZIP SHA-256: `fdd66d63bff2f7674c20b431068b096f2dde6726ec5adea649cdf29d44c70949`
-
-The ZIP was extracted as a user download and its installer reproduced the finished ISO byte for byte from the clean original.
