@@ -4,6 +4,8 @@ GT Career adds a nine-hall career to **Gran Turismo PSP USA (UCUS98632 v2.00)**,
 
 ## Apply the patch
 
+This beta ZIP is **not a standalone `.xdelta` file**. Delta Patcher cannot open it. Extract the ZIP and run the included `apply_patch.py` installer as shown below.
+
 You need your own, unmodified USA UCUS98632 v2.00 ISO, Python 3.8 or newer, `xdelta3` on your PATH, the .NET 9 or 10 runtime, and about 5 GB of free disk space. The original ISO must have SHA-256:
 
 `78d1b6855a268bd6480a6572977c3f4df4c438af11c751baeca14390819de435`

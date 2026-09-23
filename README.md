@@ -62,7 +62,7 @@ Screenshots from the beta ISO in PPSSPP, shown at the PSP's 480 × 272 resolutio
 
 ## Get the public beta
 
-This release is a patch for your own **Gran Turismo PSP USA UCUS98632 v2.00** ISO. It does not include the game. Apply the patch, then copy the finished ISO to your PSP or open it in PPSSPP.
+This release is a patch for your own **Gran Turismo PSP USA UCUS98632 v2.00** ISO. It does not include the game. Extract the ZIP and use its installer to build the finished ISO, then copy it to your PSP or open it in PPSSPP. The ZIP is not a standalone `.xdelta` file for Delta Patcher.
 
 **[Download v0.27.2-beta.1](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1)** · [Detailed installation and save instructions](INSTALL.md) · [Release notes](RELEASE-NOTES-v0.27.2-beta.1.md) · [Credits and licences](NOTICE.md)
 
