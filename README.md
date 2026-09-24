@@ -60,7 +60,7 @@ Hong Kong, Rome Circuit, Complex String and Smokey Mountain once crashed the PSP
 
 ## Get the public beta
 
-This release is a patch for your own **Gran Turismo PSP USA UCUS98632 v2.00** ISO. It does not include the game. Download the `.xdelta` patch and apply it with the free [Delta Patcher](https://deltapatcher.net/) for Windows or macOS. Then copy the finished ISO to your PSP or open it in PPSSPP.
+This release has patches for three **Gran Turismo PSP USA** ISO variants. European support is planned for the full release. The patches do not include the game. [Select your ISO to find the right patch](https://memetrix.github.io/gtpsp-career-spec-ii/), then apply it with the free [Delta Patcher](https://deltapatcher.net/) for Windows or macOS. The game file stays on your device during the check. Copy the finished ISO to your PSP or open it in PPSSPP.
 
 **[Download v0.27.2-beta.1](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1)** · [Detailed installation and save instructions](INSTALL.md) · [Release notes](RELEASE-NOTES-v0.27.2-beta.1.md) · [Credits and licences](NOTICE.md)
 

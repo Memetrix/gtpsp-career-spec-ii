@@ -23,9 +23,12 @@ The v0.27.2 game volume has been played on PSP Go. Beta.1 keeps that volume byte
 
 ## Download and install
 
-For the simplest installation, download `GT-Career-SpecII-v0.27.2-beta.1.xdelta` from the [release page](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1) and apply it to your original USA ISO with the free [Delta Patcher](https://deltapatcher.net/) for Windows or macOS. The smaller ZIP remains available as a command-line alternative. **Neither download contains a game ISO or save file.** See the [installation guide](https://github.com/Memetrix/gtpsp-career-spec-ii/blob/main/INSTALL.md) for the required original ISO and save instructions.
+Use the [patch selector](https://memetrix.github.io/gtpsp-career-spec-ii/) to pick your original USA ISO and download the matching `.xdelta`, then apply it with the free [Delta Patcher](https://deltapatcher.net/) for Windows or macOS. The ISO stays on your device during the check. Three USA image variants are supported; the [installation guide](https://github.com/Memetrix/gtpsp-career-spec-ii/blob/main/INSTALL.md) also lists their CRC32 values for manual selection. The smaller ZIP remains available as a command-line alternative for the originally supported image. **The downloads contain no game ISO or save file.**
 
-- Original ISO SHA-256: `78d1b6855a268bd6480a6572977c3f4df4c438af11c751baeca14390819de435`
+The European `UCES01245` version is not supported in this beta. European support is planned for the full release.
+
 - Finished ISO SHA-256: `1219e55d1fc0352ade90b2853c09de0441990a46407032acdc76c2adcabd31e6`
-- Delta Patcher `.xdelta` SHA-256: `6b03d3ef892adebaf3f600df9da935dcb916d96fb179be720fb31081af65d62f`
+- USA UMD v2.00 `.xdelta` SHA-256: `172864242fc36f38bfd6e133451c901545d526020630e1bdea1b3c955b72f86f`
+- USA UMD v1.00 `.xdelta` SHA-256: `d0fc7e8c58c975dd24cb00b0def3cc57f1aeff1c20e1f12355af15245fd9cb3b`
+- Originally supported USA v2.00 `.xdelta` SHA-256: `6b03d3ef892adebaf3f600df9da935dcb916d96fb179be720fb31081af65d62f`
 - Release ZIP SHA-256: `fdd66d63bff2f7674c20b431068b096f2dde6726ec5adea649cdf29d44c70949`
