@@ -13,4 +13,4 @@ These are reports for the public beta or its byte-identical v0.27.2 gameplay vol
 
 We don't yet have a test report for **PSP-1000, PSP-2000, PSP-3000 or PSP Street**. The Vita report covers Adrenaline 6.61, not every Vita setup. The European game image does not have a patch in this beta.
 
-If you test another device, [open an issue](https://github.com/Memetrix/gtpsp-career-spec-ii/issues) with its model, firmware or PPSSPP version, the event you played, and whether you saved and reopened the game. We'll add concrete reports here.
+If you test another device, [open an issue](https://github.com/Memetrix/gran-turismo-psp-career/issues) with its model, firmware or PPSSPP version, the event you played, and whether you saved and reopened the game. We'll add concrete reports here.

@@ -1,12 +1,12 @@
-# GT Career: Spec II — public beta 0.27.2-beta.1
+# Gran Turismo PSP Career — public beta 0.27.2-beta.1
 
 [Watch the public beta trailer](https://www.youtube.com/watch?v=EhzWIxJF08s).
 
-This is the first public beta. It adds a GT4 Spec II-inspired career to Gran Turismo PSP without replacing the original game modes. The beta includes a new cover, PSP menu icon and background.
+This is the first public beta. It adds a GT4-style career to Gran Turismo PSP without replacing the original game modes. The beta includes a new cover, PSP menu icon and background.
 
 ## In this release
 
-- **Career:** nine halls; 161 GT4 Spec II-derived competitions and two Lost Circuits events. Forty-two continuation cards keep longer series together, for 205 career cards and 763 rounds. Two additional Hidden Course Test cards are experimental and do not count toward completion.
+- **Career:** nine halls; 161 competitions adapted from GT4 Spec II 1.10 (credited in NOTICE) and two Lost Circuits events. Forty-two continuation cards keep longer series together, for 205 career cards and 763 rounds. Two additional Hidden Course Test cards are experimental and do not count toward completion.
 - **Progression:** car restrictions, PSP Driving Challenge licence gates, credits, trophies and prize cars. Career progress uses a separate save slot. On first launch it can copy garage and credits from a stock PSP profile without overwriting that profile. The garage marks cars that fit an event.
 - **Championships:** long seasons span six-round pages while retaining the same opponents and a single 10/8/6/4 points table. The championship reward is paid only after the final round. World Circuit Tour retains separate stage wins. Normal grids have four cars; Special Conditions are duels.
 - **Tuning:** a shop for engine parts, tyres and suspension kits, with persistent ownership and fitted configuration. Ten engine categories use native car parameters: turbo, NA tune, exhaust, ECU, intercooler, port polish, weight reduction, engine balance, displacement and supercharger. Adjustable suspension and applicable brake controls are included. A Delta Integrale measured 7.596 s stock and 4.261 s fully upgraded from 0–100 km/h on the test oval. The purchase journal holds at most 192 tuned-car configurations.
@@ -25,7 +25,7 @@ The v0.27.2 game volume has been played on PSP Go. Beta.1 keeps that volume byte
 
 ## Download and install
 
-Use the [patch selector](https://memetrix.github.io/gtpsp-career-spec-ii/) to pick your original USA ISO and download the matching `.xdelta`, then apply it with the free [Delta Patcher](https://deltapatcher.net/) for Windows or macOS. The ISO stays on your device during the check. Three USA image variants are supported; the [installation guide](https://github.com/Memetrix/gtpsp-career-spec-ii/blob/main/INSTALL.md) also lists their CRC32 values for manual selection. The smaller ZIP remains available as a command-line alternative for the originally supported image. **The downloads contain no game ISO or save file.**
+Use the [patch selector](https://memetrix.github.io/gran-turismo-psp-career/) to pick your original USA ISO and download the matching `.xdelta`, then apply it with the free [Delta Patcher](https://deltapatcher.net/) for Windows or macOS. The ISO stays on your device during the check. Three USA image variants are supported; the [installation guide](https://github.com/Memetrix/gran-turismo-psp-career/blob/main/INSTALL.md) also lists their CRC32 values for manual selection. The smaller ZIP remains available as a command-line alternative for the originally supported image. **The downloads contain no game ISO or save file.**
 
 The European `UCES01245` version is not supported in this beta. European support is planned for the full release.
 
