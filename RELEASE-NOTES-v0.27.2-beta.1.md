@@ -1,5 +1,7 @@
 # GT Career: Spec II — public beta 0.27.2-beta.1
 
+[Watch the public beta trailer](https://www.youtube.com/watch?v=EhzWIxJF08s).
+
 This is the first public beta. It adds a GT4 Spec II-inspired career to Gran Turismo PSP without replacing the original game modes. The beta includes a new cover, PSP menu icon and background.
 
 ## In this release

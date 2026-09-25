@@ -6,13 +6,17 @@
 
 ![GT Career: Spec II beta cover](art/cover.png)
 
-**[DOWNLOAD PUBLIC BETA](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1)** · **[INSTALLATION GUIDE](INSTALL.md)** · **[RELEASE NOTES](RELEASE-NOTES-v0.27.2-beta.1.md)**
+**[WATCH THE TRAILER](https://www.youtube.com/watch?v=EhzWIxJF08s)** · **[DOWNLOAD PUBLIC BETA](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1)** · **[INSTALLATION GUIDE](INSTALL.md)** · **[RELEASE NOTES](RELEASE-NOTES-v0.27.2-beta.1.md)**
 
 **163 competitions · 763 rounds · 9 halls · 5 lost tracks on PSP Go**
 
 </div>
 
 Gran Turismo PSP has the cars and the driving. **Spec II gives them the career they were missing:** 163 competitions, a proper parts shop, prize cars and full-length endurance races.
+
+## Trailer
+
+[![Watch the GT Career: Spec II public beta trailer](art/trailer-thumbnail.jpg)](https://www.youtube.com/watch?v=EhzWIxJF08s)
 
 ## Career
 
