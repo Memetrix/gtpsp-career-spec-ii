@@ -68,6 +68,6 @@ This release has patches for three **Gran Turismo PSP USA** ISO variants. Europe
 
 **[Download v0.27.2-beta.1](https://github.com/Memetrix/gtpsp-career-spec-ii/releases/tag/v0.27.2-beta.1)** · [Detailed installation and save instructions](INSTALL.md) · [Release notes](RELEASE-NOTES-v0.27.2-beta.1.md) · [Credits and licences](NOTICE.md)
 
-For the current beta limits and hardware test status, see the [release notes](RELEASE-NOTES-v0.27.2-beta.1.md). This is an unofficial fan project; Gran Turismo and the original game assets belong to their respective owners.
+For the current beta limits and hardware test status, see the [release notes](RELEASE-NOTES-v0.27.2-beta.1.md) and the [tested-device list](TESTED-DEVICES.md). This is an unofficial fan project; Gran Turismo and the original game assets belong to their respective owners.
 
 Found a problem? [Open an issue](https://github.com/Memetrix/gtpsp-career-spec-ii/issues) with the console model or PPSSPP version, event and round, what happened, and whether it happens after a cold launch.
